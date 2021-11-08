@@ -1,0 +1,4 @@
+{
+  "RPA_SECRET_MANAGER": "RPA.Robocloud.Secrets.FileSecrets",
+  "RPA_SECRET_FILE": "/Users/juhasarkinen/Robots/Cert-lvl2-robot/resources/vault.json"
+}

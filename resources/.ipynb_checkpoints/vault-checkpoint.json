@@ -1,0 +1,9 @@
+{
+   "Assat":{
+      "cb_user":"juha.sarkinen@humandigi.fi",
+      "cb_secret":"Petritestaa!",
+	  "cb_company":"humandigi",
+      "sftp_user":"assatftp",
+      "sftp_secret":"7yHqs@mN6PS_8vx+#9"
+   }
+}
