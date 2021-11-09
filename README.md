@@ -7,6 +7,7 @@ devdata/env.json
 {
   
   "RPA_SECRET_MANAGER": "RPA.Robocorp.Vault.FileSecrets",
+  
   "RPA_SECRET_FILE": "/path/to/robot/resources/vault.json"
 
 }
